@@ -1,0 +1,4 @@
+201 'simha' 'male' '22/04/97' vijaynagar
+203 Guru male 02/01/97 padmanabhanagar
+101 Jerry Male 1/1/1997 Padmanabhanagar
+107 tom male 2/13/1997 bangalore
